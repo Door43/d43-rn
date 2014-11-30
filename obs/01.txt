@@ -18,7 +18,7 @@ Ku munsi ugira gatatu, Imana iravuga yongera itandukanya amazi n'isi yumye.Yita 
 
 Nuko Imana ivugango,,"Reka isi imere ubwoko bwose bw'ibiti n'ibiterwa." Bica biba uko. Imana ibona ko ivyo yaremye ari vyiza.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}     Ku munsi ugira kane w'iremwa, Imana iravuga yongera irema izuba,ukwezi n'inyenyeri. Imana yabiremye kugira bihe umuco isi vyongere bitandukanye umutaga n'ijoro,ibihe n'imyaka. Imana ibona ko ivyo yaremye ari vyiza.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}Ku munsi ugira kane w'iremwa, Imana iravuga yongera irema izuba,ukwezi n'inyenyeri. Imana yabiremye kugira bihe umuco isi vyongere bitandukanye umutaga n'ijoro,ibihe n'imyaka. Imana ibona ko ivyo yaremye ari vyiza.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
@@ -38,7 +38,7 @@ Nuko Imana ifata ivu, ibumba umuntu, imuhemeramwo impwemu y'ubuzima. Uyu muntu i
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
-In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
+Hagati mw'itongo, Imana iteramwo ibiti bibiri bidasanzwe- igiti c'ubuzima hamwe n'igiti c'ukumenya ikibi n'iciza. Imana ibwira Adamu  ko ashobora kurya ivyamwa vy'ibiti vyose kiretse igiti co kumenya ikibi n'iciza. Niyo yakiryako, azoca apfa.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
